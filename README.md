@@ -1,5 +1,5 @@
 # Stock-market-analysis-market-portfolio
-                                                                                                *****Discrption about Project*****
+*****Discrption about Project*****
 
 Stock market analysis refers to the process of evaluating and interpreting data, trends, and information related to financial instruments traded in the stock market. Investors and analysts conduct stock market analysis to make informed decisions about buying, selling, or holding stocks and other securities. One important aspect of stock market analysis is the consideration of the market portfolio.
 
